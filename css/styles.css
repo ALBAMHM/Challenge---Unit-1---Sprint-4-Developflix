@@ -15,4 +15,22 @@ h2 {
   margin-bottom: 10px;
 }
 
+li {
+  list-style: none;
+  padding: 30px;
+  
+}
 
+
+ul{
+display: flex;
+flex-wrap: wrap;
+
+}
+
+
+.titulo-pelicula {
+  display: block;
+  text-align:center;
+  margin-top: 5px;
+}
